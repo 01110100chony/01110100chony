@@ -1,7 +1,4 @@
-<!-- ============================================================
-     GitHub Profile README — C-style Edition
-     Replace every <PLACEHOLDER> with your own information.
-     ============================================================ -->
+
 
 <div align="center">
 
@@ -10,7 +7,7 @@
  * ════════════════════════════════════════════════════════════════
  *
  *   @file       profile.c
- *   @author     <YOUR_NAME>
+ *   @author     Anthony_Cristian
  *
  *   @brief      Engineer in training. Navigating the convergence of
  *               High-Performance Computing and Quantum Computing to
@@ -44,12 +41,12 @@ typedef struct {
 } Developer;
 
 Developer me = {
-    .name            = "<YOUR_NAME>",
-    .age             =  <YOUR_AGE>,
-    .university      = "<YOUR_UNIVERSITY>",
+    .name            = "Anthony_Cristian",
+    .age             =  20,
+    .university      = "UTFPR",
     .degree          =  "Bachelor",
-    .course          = "<YOUR_COURSE>",
-    .enrolled_since  =  <YEAR>,
+    .course          = "Computer_Engineering",
+    .enrolled_since  =  2024;
 };
 ```
 
@@ -80,7 +77,7 @@ typedef enum {
     BLOCKCHAIN,   /* Decentralized, transparent, resilient                       */
 } FocusArea;
 
-FocusArea current_research[] = { PQC, QML, HPC_OPT, MAINFRAME, BLOCKCHAIN };
+FocusArea current_research[] = { PQC, QML, HPC_OPT, MAINFRAME, BLOCKCHAIN, QUANTUM_COMPUTING(IN_GENERAL) };
 ```
 
 ---
@@ -133,14 +130,13 @@ typedef enum {
 ```c
 typedef struct {
     char *language;
-    char *level;       /* e.g.  "Native" | "Fluent" | "Intermediate" | "Basic" */
+    char *level;       
 } SpokenLanguage;
 
 SpokenLanguage languages[] = {
-    { "<LANGUAGE_1>", "<LEVEL>" },
-    { "<LANGUAGE_2>", "<LEVEL>" },
-    { "<LANGUAGE_3>", "<LEVEL>" },
-    /* add more as needed */
+    { "<ENGLISH>", "<B2>" },
+    { "<PORTUGUESE_BRAZILIAN>", "<NATIVE>" },
+    { "<SPANISH>", "<A1>" },
 };
 ```
 
@@ -150,14 +146,14 @@ SpokenLanguage languages[] = {
 
 ```c
 typedef enum {
-    /* ── replace or extend with your own skill tags ── */
+    
     PROBLEM_SOLVING,
     SYSTEMS_THINKING,
     LOW_LEVEL_PROGRAMMING,
     CRYPTOGRAPHY,
     DISTRIBUTED_SYSTEMS,
     FINANCIAL_ENGINEERING,
-    /* <ADD_YOUR_SKILL>,  */
+    
 } SkillTag;
 
 SkillTag profile[] = {
@@ -167,6 +163,8 @@ SkillTag profile[] = {
     CRYPTOGRAPHY,
     DISTRIBUTED_SYSTEMS,
     FINANCIAL_ENGINEERING,
+    QUANTUM_COMPUTING
+    VST_ENGINEERING
 };
 ```
 
@@ -181,10 +179,8 @@ typedef struct {
 } SocialLink;
 
 SocialLink socials[] = {
-    { "GitHub",    "https://github.com/<YOUR_USERNAME>"          },
-    { "LinkedIn",  "https://linkedin.com/in/<YOUR_USERNAME>"     },
-    { "Twitter/X", "https://x.com/<YOUR_USERNAME>"               },
-    /* { "<PLATFORM>", "<YOUR_URL>" }, */
+    { "GitHub",    "https://github.com/01110100chony"          },
+    { "LinkedIn",  "https://linkedin.com/in/anthony-cristian"     },
 };
 ```
 
@@ -192,9 +188,8 @@ SocialLink socials[] = {
 
 | Platform | Link |
 |---|---|
-| 🐙 GitHub | [github.com/\<YOUR_USERNAME\>](https://github.com/<YOUR_USERNAME>) |
-| 💼 LinkedIn | [linkedin.com/in/\<YOUR_USERNAME\>](https://linkedin.com/in/<YOUR_USERNAME>) |
-| 🐦 Twitter / X | [x.com/\<YOUR_USERNAME\>](https://x.com/<YOUR_USERNAME>) |
+| 🐙 GitHub | [github.com/\01110100chony](https://github.com/01110100chony) |
+| 💼 LinkedIn | [linkedin.com/in/\anthony-cristian-610852382/](https://linkedin.com/in/anthony-cristian-610852382/) |
 
 </div>
 
@@ -214,9 +209,7 @@ SocialLink socials[] = {
 int main(void) {
     printf("Still compiling... come back later.\n");
 
-    /*
-     *  TODO: ship something that outlasts the quantum threat.
-     */
+    
 
     return 0;
 }
@@ -226,9 +219,9 @@ int main(void) {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01110100chony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 &nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01110100chony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
