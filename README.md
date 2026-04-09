@@ -13,9 +13,8 @@
  *               High-Performance Computing and Quantum Computing to
  *               rethink how financial infrastructure is built and secured.
  *
- *   @mission    Post-Quantum Cryptography is not just a theoretical
- *               challenge — it is the final frontier for preserving
- *               data integrity at scale.
+ *   @mission    Post-Quantum Cryptography efficiency.
+ *              
  *
  * ════════════════════════════════════════════════════════════════
  */
@@ -217,8 +216,8 @@ int main(void) {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01110100chony&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01110100chony&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01110100chony&theme=synthwave&show_icons=true&hide_border=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01110100chony&theme=synthwave&show_icons=true&hide_border=true&count_private=false)
 
 </div>
 
