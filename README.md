@@ -180,7 +180,6 @@ typedef struct {
 
 SocialLink socials[] = {
     { "GitHub",    "https://github.com/01110100chony"          },
-    { "LinkedIn",  "https://linkedin.com/in/anthony-cristian"     },
 };
 ```
 
@@ -189,7 +188,6 @@ SocialLink socials[] = {
 | Platform | Link |
 |---|---|
 | 🐙 GitHub | [github.com/\01110100chony](https://github.com/01110100chony) |
-| 💼 LinkedIn | [linkedin.com/in/\anthony-cristian-610852382/](https://linkedin.com/in/anthony-cristian-610852382/) |
 
 </div>
 
@@ -219,9 +217,8 @@ int main(void) {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01110100chony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01110100chony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01110100chony&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01110100chony&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
 </div>
 
