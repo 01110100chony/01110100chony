@@ -52,36 +52,6 @@ Developer me = {
 
 ---
 
-## `// CORE MISSION`
-
-```c
-/**
- * I have a deep interest in efficiently innovating the financial sector.
- * I chose to dedicate myself to the intersection between
- * High-Performance Computing (HPC) and Quantum Computing —
- * and what that intersection means for the future of economic infrastructure.
- *
- * I believe true innovation lies in the symbiosis between:
- *   → The historical robustness of Mainframes (IBM Z)
- *   → The resilient transparency of Blockchain architectures
- *
- * My primary goal is building solutions that are technically sound
- * and quantum-ready for critical scenarios.
- */
-
-typedef enum {
-    PQC,          /* Post-Quantum Cryptography — preserving integrity at scale  */
-    QML,          /* Quantum Machine Learning — probabilistic advantage          */
-    HPC_OPT,      /* C++ performance optimization for latency-critical systems   */
-    MAINFRAME,    /* IBM Z — where reliability was invented                      */
-    BLOCKCHAIN,   /* Decentralized, transparent, resilient                       */
-} FocusArea;
-
-FocusArea current_research[] = { PQC, QML, HPC_OPT, MAINFRAME, BLOCKCHAIN, QUANTUM_COMPUTING(IN_GENERAL) };
-```
-
----
-
 ## `// TECHNICAL STACK`
 
 ```c
