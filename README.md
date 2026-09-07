@@ -10,13 +10,11 @@
  *   @author     Anthony_Cristian
  *
  *   @brief      Engineer in training. Navigating the convergence of
- *               High-Performance Computing and Quantum Computing to
- *               rethink how financial infrastructure is built and secured.
- *
- *   @mission    Post-Quantum Cryptography is not just a theoretical
- *               challenge — it is the final frontier for preserving
- *               data integrity at scale.
- *
+ *               High-Performance Computing/
+ *               Quantum Computing/
+ *               Quantitative Finance 
+ *               with focus on shaping the future infrastructure.
+ *         
  * ════════════════════════════════════════════════════════════════
  */
 ```
@@ -42,7 +40,7 @@ typedef struct {
 
 Developer me = {
     .name            = "Anthony_Cristian",
-    .age             =  20,
+    .age             =  21,
     .university      = "UTFPR",
     .degree          =  "Bachelor",
     .course          = "Computer_Engineering",
@@ -58,16 +56,12 @@ Developer me = {
 /* ── Languages ──────────────────────────────────────────────── */
 typedef enum {
     C,
-    CPP,        /* C++  */
+    CPP,        /* C++  */ //secondary
     PYTHON,
-    RUST,
+    RUST, //main
+    JAVA,
+    ZIG,
 } ProgrammingLanguage;
-
-/* ── Platforms ──────────────────────────────────────────────── */
-typedef enum {
-    WINDOWS,
-    LINUX,
-} Platform;
 
 /* ── Tools & Software ───────────────────────────────────────── */
 typedef enum {
@@ -75,13 +69,15 @@ typedef enum {
     CURSOR,
     VSCODE,
     JETBRAINS,
+    ZED, // my fav one
 
     /* Design & Media */
-    PHOTOSHOP,
     DAVINCI_RESOLVE,
     FL_STUDIO,
+    FIGMA,
 
     /* 3D / CAD / Creative Tech */
+    BLENDER,
     TOUCHDESIGNER,
     AUTOCAD,
     TINKERCAD,
@@ -89,7 +85,10 @@ typedef enum {
     INVENTOR,
 
     /* Productivity */
-    GOOGLE_SUITE,
+    OBSIDIAN,
+    NOTION,
+    SLACK,
+    REDIS,
 } Tool;
 ```
 
@@ -104,7 +103,7 @@ typedef struct {
 } SpokenLanguage;
 
 SpokenLanguage languages[] = {
-    { "<ENGLISH>", "<B2>" },
+    { "<ENGLISH>", "<B2>" }, //c1 soon
     { "<PORTUGUESE_BRAZILIAN>", "<NATIVE>" },
     { "<SPANISH>", "<A1>" },
 };
